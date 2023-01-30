@@ -3,6 +3,7 @@
 }
 body{
     background-color: rgb(243, 238, 238);
+    display: inline-block;
 }
 
 /*HEADER SECTION*/
@@ -19,6 +20,12 @@ header{
 }
 
 /*MAIN SECTION*/
+.main-section{
+    margin-top:10px;
+}
 
+.left-article{
+    width:30%;
+}
 
 /*FOOTER SECTION*/
