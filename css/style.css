@@ -22,6 +22,7 @@ header{
 /*MAIN SECTION*/
 .main-section{
     margin-top:10px;
+    display: inline-block;
 }
 
 .left-article{
@@ -29,7 +30,7 @@ header{
 }
 
 .image-box{
-    width:60%;
+    width:500px;
     height:500px;
     background-image: url("../img/londonbackground.webp");
     background-size: cover;
